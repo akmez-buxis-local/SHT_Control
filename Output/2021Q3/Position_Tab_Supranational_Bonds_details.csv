@@ -1,0 +1,23 @@
+"Asset_ID","Rating_PQ","Rating_CQ","MV_PQ","MV_CQ","CC_PQ","CC_CQ","LT_Flag_PQ","LT_Flag_CQ","deltaMV","deltaCC","CheckRating","Check_LT_Flag","CC_MV_Ratio_PQ","CC_MV_Ratio_CQ","delta_CC_MV_ratio"
+"14121289","AAA","AAA",601.139380941,582.216344,0,0,"N","N",-18.923036941,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"14812095","AAA","AAA",194.189203854,188.05187084,0,0,"N","N",-6.13733301400001,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"17901012","NA","AAA",0,341.9305971,0,0,"NA","N",341.9305971,0,"Missing Asset ID","Missing Asset ID",0,0,0
+"19202938","AAA","AAA",396.435500688,554.9335813,0,0,"N","N",158.498080612,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"19714580","AAA","AAA",2081.55113295,2015.3839619,0,0,"N","N",-66.16717105,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"20350200","AAA","AAA",176.972244022,1849.9909558,0,0,"N","N",1673.018711778,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"21244054","AAA","AAA",354.087901443,7829.99144,0,0,"N","N",7475.903538557,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"22857475","BBB","BBB",17868.06063,17631.504093,0,0,"N","N",-236.556537,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"23173554","AAA","AAA",12873.570608353,12467.360512,0,0,"N","N",-406.210096353001,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"23173555","AAA","AAA",5508.292078,5741.235216,0,0,"N","N",232.943138,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"23207413","AAA","AAA",9124.7252121,9241.305435,0,0,"N","N",116.580222900002,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"23673151","AAA","AAA",2262.48953394,2188.9765274,0,0,"N","N",-73.5130065399999,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"24139276","AAA","AAA",824.926008481,4589.569435,0,0,"N","N",3764.643426519,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"24139378","AA","AA",523.216938292,506.3888857,0,0,"N","N",-16.828052592,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"24501432","NA","AAA",0,649.4895374,0,0,"NA","N",649.4895374,0,"Missing Asset ID","Missing Asset ID",0,0,0
+"5009193","AA","AA",1048722.076,1047158.051,0,0,"N","N",-1564.02499999991,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"7480978","AAA","AAA",891.68932116,863.4652328,0,0,"N","N",-28.22408836,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"8043286","AAA","AAA",1641.42851132,40367.93393,0,0,"N","N",38726.50541868,0,"No Change in Rating","No Change in LT_Flag",0,0,0
+"10937696","AAA","NA",459.403584005,0,0,0,"N","NA",-459.403584005,0,"Missing Asset ID","Missing Asset ID",0,0,0
+"12791225","BBB","NA",92.12575746,0,0,0,"N","NA",-92.12575746,0,"Missing Asset ID","Missing Asset ID",0,0,0
+"22281265","AAA","NA",741.888482475,0,0,0,"N","NA",-741.888482475,0,"Missing Asset ID","Missing Asset ID",0,0,0
+"7592244","AAA","NA",914.48894451,0,0,0,"N","NA",-914.48894451,0,"Missing Asset ID","Missing Asset ID",0,0,0
